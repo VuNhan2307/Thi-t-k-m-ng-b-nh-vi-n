@@ -1,0 +1,43 @@
+Tiêu d?
+Thi?t k? m?ng b?nh vi?n
+
+Tóm t?t
+Báo cáo này mô t? thi?t k? m?ng c?a Qu?n lý cham sóc s?c kh?e ho?c B?nh vi?n. Trong c?u trúc m?ng này, các nút (t?c là máy tính, b? chuy?n m?ch, b? d?nh tuy?n ho?c các thi?t b? khác) du?c k?t n?i v?i m?ng c?c b? (LAN) và m?ng thông qua các liên k?t (cáp d?ng xo?n dôi ho?c cáp quang). Chúng tôi dã s? d?ng Cisco Packet Tracer d? thi?t k? c?u trúc m?ng. Ðây là thi?t k? chung có th? du?c tri?n khai ? b?t k? c?p d? cao hon nào d? qu?n lý h? th?ng m?ng.
+
+Yêu c?u v? m?ng
+Trong c?u trúc m?ng cham sóc s?c kh?e, chúng tôi có máy tính d? bàn, máy tính xách tay, di?n tho?i thông minh. Có lu?ng d? li?u gi?a các thi?t b? trong h? th?ng. Chúng tôi dã chia m?ng c?a mình thành các phân do?n nhu cho các khoa b?nh vi?n, khu v?c lâm sàng, v.v. Chúng tôi cung dã s? d?ng SSH d? b?o m?t. Yêu c?u v? m?ng c?a chúng tôi bao g?m các thi?t b? m?ng nhu b? d?nh tuy?n, b? chuy?n m?ch, máy ch?.
+Hospital segments
+1 General ward
+
+2 Private ward
+
+3 Clinical Area
+
+4 IT Department
+
+5 Entrance Reception
+
+6 Lobby, Parking , Cafeteria
+
+Features and Services
+• DHCP
+
+• DNS
+
+• Subnetting
+
+• HTTPS
+
+• SSH
+
+• SMTP
+
+• FTP
+
+• WIFI
+
+C?u trúc m?ng
+So d? du?c chú thích h?p lý. Chúng tôi dã chia so d? thành 5 phân do?n nh? nhu dã nêu trong ph?n 4. Các phân do?n b?nh vi?n d?i di?n cho các khoa khác nhau c?a b?nh vi?n. Chúng tôi dã d? c?p d?n d?a ch? IP trên t?ng giao di?n c?a máy ch? và b? d?nh tuy?n, ph?m vi c?a t?ng phân do?n du?c chú thích rõ ràng
+
+Tóm t?t
+Báo cáo này mô t? cách chúng tôi thi?t k? c?u trúc m?ng c?a b?nh vi?n (H? th?ng qu?n lý cham sóc s?c kh?e). V?i VLSM d? chia m?ng con, phân do?n so d? thành 5 phân do?n. C?u trúc này cung có th? du?c tri?n khai ? c?p d? cao hon c?a b?nh vi?n.
